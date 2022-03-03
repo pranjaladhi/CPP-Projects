@@ -5,7 +5,8 @@
 
 using namespace std;
 
-int cFunc(int n, int k) { //Calculating the function given at n location from one to k
+//Calculating the function given at n location from 1 to k
+int cFunc(int n, int k) {
 	double storeValue;
 	int nFactorial = 1;
 	for (int i = 2; i <= n; i++) {
@@ -26,6 +27,7 @@ int cFunc(int n, int k) { //Calculating the function given at n location from on
 	return 0;
 }
 
+//Takes the user's input for n and k variables and calls the function above
 int main() {
 	int nN, kK;
 	cout << "Enter a value for n: "; cin >> nN;
