@@ -8,7 +8,7 @@
 
 using namespace std;
 
-//The function below takes into account both of the user's and computer's health as well as the user's move
+//The function below takes into account both of the user's, computer's health, and the user's move
 void attack(double& attackerHealth, double& defenderHealth, int move) {
 	//User starts moving
 	double prob, compProb, compMoveProb, gainUserHealth = 0.0, loseUserHealth = 0.0, gainCompHealth = 0.0, loseCompHealth = 0.0;
