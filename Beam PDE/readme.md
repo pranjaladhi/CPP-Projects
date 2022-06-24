@@ -1,1 +1,1 @@
-Within this project, the goal was to develop an iterative method to solve a partial differential equation (PDE) for a beam under uniform load. The equation for the beam is given as $EI*y/x^2 = -q/2(x^2-xL)$ where y(x) is the defelction of the beam. 
+Within this project, the goal was to develop an iterative method to solve a partial differential equation (PDE) for a beam under uniform load. The equation for the beam is given as $EI(∂^2y/∂x^2) = -q/2(x^2-xL)$ where y(x) is the defelction of the beam. 
