@@ -1,1 +1,1 @@
-Hello testing
+Within this project, the main goal was to develop an iterative method to solve a partial differential equation (PDE) for a beam under uniform load. The equation for the beam is given as ![image](https://user-images.githubusercontent.com/98073317/175646224-344cec43-ac15-4889-b8fb-926346efa2c6.png) where y(x) is the defelction of the beam. 
