@@ -1,2 +1,2 @@
-# CPP-Projects
-List of projects in C++ by Pranjal Adhikari
+# C++ Projects
+List of projects completed in C++.
